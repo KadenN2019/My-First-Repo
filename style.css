@@ -1,0 +1,21 @@
+body {
+    background-color:lightgrey;
+    padding: 16px
+}
+h1 {color:rgb(89, 143, 197);}
+a {
+    color:black;
+}
+.header {
+    background-color: darkgray;
+    text-align: left;
+    padding: 20px;
+    text-decoration-line: none;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    scroll-padding-top: 120px
+  }
+  footer {
+      color: rgb(131, 131, 131);
+  }
